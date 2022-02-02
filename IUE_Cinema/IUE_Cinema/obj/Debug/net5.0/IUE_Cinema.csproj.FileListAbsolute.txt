@@ -1,0 +1,16 @@
+C:\Users\harde\source\repos\IUE_Cinema\IUE_Cinema\bin\Debug\net5.0\IUE_Cinema.exe
+C:\Users\harde\source\repos\IUE_Cinema\IUE_Cinema\bin\Debug\net5.0\IUE_Cinema.deps.json
+C:\Users\harde\source\repos\IUE_Cinema\IUE_Cinema\bin\Debug\net5.0\IUE_Cinema.runtimeconfig.json
+C:\Users\harde\source\repos\IUE_Cinema\IUE_Cinema\bin\Debug\net5.0\IUE_Cinema.runtimeconfig.dev.json
+C:\Users\harde\source\repos\IUE_Cinema\IUE_Cinema\bin\Debug\net5.0\IUE_Cinema.dll
+C:\Users\harde\source\repos\IUE_Cinema\IUE_Cinema\bin\Debug\net5.0\ref\IUE_Cinema.dll
+C:\Users\harde\source\repos\IUE_Cinema\IUE_Cinema\bin\Debug\net5.0\IUE_Cinema.pdb
+C:\Users\harde\source\repos\IUE_Cinema\IUE_Cinema\obj\Debug\net5.0\IUE_Cinema.csproj.AssemblyReference.cache
+C:\Users\harde\source\repos\IUE_Cinema\IUE_Cinema\obj\Debug\net5.0\IUE_Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harde\source\repos\IUE_Cinema\IUE_Cinema\obj\Debug\net5.0\IUE_Cinema.AssemblyInfoInputs.cache
+C:\Users\harde\source\repos\IUE_Cinema\IUE_Cinema\obj\Debug\net5.0\IUE_Cinema.AssemblyInfo.cs
+C:\Users\harde\source\repos\IUE_Cinema\IUE_Cinema\obj\Debug\net5.0\IUE_Cinema.csproj.CoreCompileInputs.cache
+C:\Users\harde\source\repos\IUE_Cinema\IUE_Cinema\obj\Debug\net5.0\IUE_Cinema.dll
+C:\Users\harde\source\repos\IUE_Cinema\IUE_Cinema\obj\Debug\net5.0\ref\IUE_Cinema.dll
+C:\Users\harde\source\repos\IUE_Cinema\IUE_Cinema\obj\Debug\net5.0\IUE_Cinema.pdb
+C:\Users\harde\source\repos\IUE_Cinema\IUE_Cinema\obj\Debug\net5.0\IUE_Cinema.genruntimeconfig.cache
